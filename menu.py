@@ -241,8 +241,6 @@ while True:
 
 
 
-
-
 	elif (ch==2):
 		while True:
 			print(""" 
@@ -295,7 +293,6 @@ while True:
 				break
 			else:
 				print("Enter Valid Input...")
-
 
 
 
@@ -614,8 +611,10 @@ while True:
 				break
 			else:
 				print("Enter valid input....")
+				
 	elif (ch==0):
 		break
+		
 	else:
 		print("Enter valid input...")
 
